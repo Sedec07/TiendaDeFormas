@@ -10,7 +10,7 @@ package com.mycompany.tiendadeformas;
  */
 public class Circulo extends Forma {
 
-    public Circulo(double radio) {
+    public Circulo(double radio) {//funcion circulo
     }
     
 }

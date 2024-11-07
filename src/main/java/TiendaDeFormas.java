@@ -80,7 +80,7 @@ public class TiendaDeFormas extends JFrame {
                 textArea.append("Área: " + forma.area() + "\n");
             }
         });
-
+        //agregar panel
         JPanel panel = new JPanel();
         panel.add(agregarCirculoButton);
         panel.add(agregarRectanguloButton);

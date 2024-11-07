@@ -8,6 +8,6 @@ package com.mycompany.tiendadeformas;
  *
  * @author DaniSanti
  */
-class Forma {
+class Forma {//clase forma
     
 }

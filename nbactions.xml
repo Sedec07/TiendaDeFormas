@@ -33,6 +33,7 @@
                 <exec.mainClass>TiendaDeFormas</exec.mainClass>
                 <exec.executable>java</exec.executable>
                 <jpda.listen>true</jpda.listen>
+                
             </properties>
         </action>
         <action>
